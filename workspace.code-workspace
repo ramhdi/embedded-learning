@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "bluepill-arduino-blink",
+			"path": "stm32-platformio\\bluepill-arduino-blink"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"esp_common.h": "c",
+			"gpio.h": "c"
+		}
+	}
+}
