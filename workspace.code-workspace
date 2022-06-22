@@ -4,8 +4,7 @@
 			"path": "."
 		},
 		{
-			"name": "bluepill-arduino-blink",
-			"path": "stm32-platformio\\bluepill-arduino-blink"
+			"path": "..\\rust-learning"
 		}
 	],
 	"settings": {
