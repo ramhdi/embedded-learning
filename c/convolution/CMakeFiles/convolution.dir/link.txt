@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/convolution.dir/convolution.c.o  -o convolution 
