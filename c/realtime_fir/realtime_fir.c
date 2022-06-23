@@ -1,5 +1,5 @@
-// convolution.c
-// ramhdi, 22/06/2022
+// realtime_fir.c
+// ramhdi, 23/06/2022
 #include <stdio.h>
 #define FILTER_LEN 2
 #define BUF_LEN 100
