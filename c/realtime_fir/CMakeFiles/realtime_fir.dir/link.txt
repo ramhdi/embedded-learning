@@ -1,1 +1,0 @@
-/usr/bin/cc    CMakeFiles/realtime_fir.dir/realtime_fir.c.o  -o realtime_fir 

@@ -1,3 +1,0 @@
-/mnt/d/embedded-learning/c/realtime_fir/CMakeFiles/edit_cache.dir
-/mnt/d/embedded-learning/c/realtime_fir/CMakeFiles/rebuild_cache.dir
-/mnt/d/embedded-learning/c/realtime_fir/CMakeFiles/realtime_fir.dir

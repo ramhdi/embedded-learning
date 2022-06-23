@@ -1,3 +1,0 @@
-/mnt/d/embedded-learning/c/convolution/CMakeFiles/rebuild_cache.dir
-/mnt/d/embedded-learning/c/convolution/CMakeFiles/edit_cache.dir
-/mnt/d/embedded-learning/c/convolution/CMakeFiles/convolution.dir
